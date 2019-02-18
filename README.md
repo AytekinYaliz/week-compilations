@@ -1,8 +1,8 @@
 # Exercises & Solutions
 
-### Week 4 - Hello JavaScript ###
+## Week 4 - Hello JavaScript
 
-What we will learn today?
+### What we will learn today?
 
 -  Install Node
 -  Setup IDE
@@ -16,7 +16,8 @@ What we will learn today?
 -  Function Parameters
 -  Nested Functions
 
-### Week 5 - Conditionals and Arrays ###
+
+### Week 5 - Conditionals and Arrays
 
 What we will learn today?
 
