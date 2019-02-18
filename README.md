@@ -2,7 +2,7 @@
 
 ## Week 4 - Hello JavaScript
 
-### What we will learn today?
+What we will learn today?
 
 -  Install Node
 -  Setup IDE
@@ -17,7 +17,7 @@
 -  Nested Functions
 
 
-### Week 5 - Conditionals and Arrays
+## Week 5 - Conditionals and Arrays
 
 What we will learn today?
 
@@ -35,7 +35,7 @@ What we will learn today?
 -  More Array methods
 -  Array map
 
-### Week 6 - More Arrays ###
+## Week 6 - More Arrays ###
 
 What we will learn today?
 
