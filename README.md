@@ -1,6 +1,6 @@
-# Exercises & Solutions
+# Exercises & Solutions #
 
-## Week 4 - Hello JavaScript
+### Week 4 - Hello JavaScript ###
 
 What we will learn today?
 
@@ -15,10 +15,10 @@ What we will learn today?
 -  Functions
 -  Function Parameters
 -  Nested Functions
-
-
-## Week 5 - Conditionals and Arrays
-
+  
+  
+### Week 5 - Conditionals and Arrays ###
+  
 What we will learn today?
 
 -  Expressions
@@ -35,7 +35,7 @@ What we will learn today?
 -  More Array methods
 -  Array map
 
-## Week 6 - More Arrays ###
+### Week 6 - More Arrays ###
 
 What we will learn today?
 
