@@ -1,4 +1,5 @@
-# Exercises & Solutions #
+## JavaScript I ##
+
 
 ### Week 4 - Hello JavaScript ###
 
@@ -17,7 +18,7 @@ What we will learn today?
 - Nested Functions
   
   
-### Week 5 - Conditionals and Arrays ###
+### Week 5 - Conditionals and Arrays ###
   
 What we will learn today?
 
@@ -35,7 +36,7 @@ What we will learn today?
 - More Array methods
 - Array map
 
-### Week 6 - More Arrays ###
+### Week 6 - More Arrays ###
 
 What we will learn today?
 
@@ -52,3 +53,16 @@ What we will learn today?
 - break
 - default
 - switch
+
+## JavaScript II ##
+
+### Week 7 - Objects ###
+
+What we will learn today?
+
+- Objects
+- Objects Get and Set
+- More complex objects
+- Object methods
+- Arrays of Objects
+- Object.Keys()
