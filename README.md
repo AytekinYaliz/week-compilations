@@ -45,3 +45,11 @@ What we will learn today?
 -  Array Filter
 -  Array Map
 -  Array ForEach
+
+- for-loop, 
+- while, 
+- do-while, 
+- continue
+- break
+- default
+- switch
