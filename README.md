@@ -1,3 +1,9 @@
+### Week 0 - Introduction and Basic Setup ###
+- Terminal
+- Git
+- GitHub
+- IDE
+
 ## HTML/CSS ##
 
 ### Week 1 - Semantic HTML & CSS ###
