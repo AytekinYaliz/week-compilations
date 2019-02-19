@@ -1,5 +1,24 @@
-## JavaScript I ##
+## HTML/CSS ##
 
+### Week 1 - Semantic HTML & CSS ###
+- Semantic HTML tags
+- CSS selectors, CSS cascade, Pseudo-classes such as :hover/:focus
+- Box model: margin/padding/border etc...
+
+### Week 2 - Responsive Web and layout ###
+- Responsive web design
+- Media queries
+- Flexbox
+- (Optional) Content layout: floats
+- (Optional) Content layout: relative and absolute positioning
+
+### Week 3 - Design frameworks, Naming patterns and Forms ###
+- HTML/CSS frameworks
+- Bootstrap 4
+- Personal Websites
+
+
+## JavaScript I ##
 
 ### Week 4 - Hello JavaScript ###
 
