@@ -3,8 +3,6 @@
 
 ### Week 4 - Hello JavaScript ###
 
-What we will learn today?
-
 - Install Node
 - Setup IDE
 - Hello World
@@ -16,11 +14,8 @@ What we will learn today?
 - Functions
 - Function Parameters
 - Nested Functions
-  
-  
+
 ### Week 5 - Conditionals and Arrays ###
-  
-What we will learn today?
 
 - Expressions
 - Boolean Filters
@@ -38,8 +33,6 @@ What we will learn today?
 
 ### Week 6 - More Arrays ###
 
-What we will learn today?
-
 - Array Find
 - Array Some
 - Array Every
@@ -54,11 +47,10 @@ What we will learn today?
 - default
 - switch
 
+
 ## JavaScript II ##
 
 ### Week 7 - Objects ###
-
-What we will learn today?
 
 - Objects
 - Objects Get and Set
@@ -66,3 +58,10 @@ What we will learn today?
 - Object methods
 - Arrays of Objects
 - Object.Keys()
+
+### Week 8 - JS In the Browser ###
+
+- JS In the Browser (The DOM)
+- Callbacks and Asynchronous Functions
+- Promises
+- AJAX
