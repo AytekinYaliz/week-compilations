@@ -56,6 +56,8 @@
   **Extras (Mid-week)**
 - undefined
 - null
+- switch
+- mod
 
 ### Week 6 - More Arrays ###
 - Array Find
