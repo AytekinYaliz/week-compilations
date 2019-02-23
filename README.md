@@ -53,7 +53,7 @@
 - Array methods
 - More Array methods
 - Array map  
-  *Extras (Mid-week)*
+  **Extras (Mid-week)**
 - undefined
 - null
 
@@ -64,7 +64,7 @@
 - Array Filter
 - Array Map
 - Array ForEach  
-  *Extras (Mid-week)*
+  **Extras (Mid-week)**
 - for-loop
 - while
 - do-while
