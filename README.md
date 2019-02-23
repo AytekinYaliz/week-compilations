@@ -52,7 +52,10 @@
 - Array getters and setters
 - Array methods
 - More Array methods
-- Array map
+- Array map  
+  *Extras (Mid-week)*
+- undefined
+- null
 
 ### Week 6 - More Arrays ###
 - Array Find
@@ -60,8 +63,8 @@
 - Array Every
 - Array Filter
 - Array Map
-- Array ForEach
-  Extras
+- Array ForEach  
+  *Extras (Mid-week)*
 - for-loop
 - while
 - do-while
