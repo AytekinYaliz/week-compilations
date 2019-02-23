@@ -61,9 +61,10 @@
 - Array Filter
 - Array Map
 - Array ForEach
-- for-loop, 
-- while, 
-- do-while, 
+  Extras
+- for-loop
+- while
+- do-while
 - continue
 - break
 - default
