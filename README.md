@@ -37,7 +37,10 @@
 - Floats
 - Functions
 - Function Parameters
-- Nested Functions
+- Nested Functions  
+  **Extras (Mid-week)**
+- undefined
+- null
 
 ### Week 5 - Conditionals and Arrays ###
 - Expressions
@@ -54,9 +57,7 @@
 - More Array methods
 - Array map  
   **Extras (Mid-week)**
-- undefined
-- null
-- switch
+- switch, case, break
 - mod
 
 ### Week 6 - More Arrays ###
