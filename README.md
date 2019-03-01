@@ -85,7 +85,9 @@
 - More complex objects
 - Object methods
 - Arrays of Objects
-- Object.Keys()
+- Object.Keys()  
+  **Extras (Mid-week)**
+- template literals
 
 ### Week 8 - JS In the Browser ###
 - JS In the Browser (The DOM)
