@@ -88,6 +88,11 @@
 - Object.Keys()  
   **Extras (Mid-week)**
 - template literals
+- try-catch-finally
+- JSON.parse(), JSON.stringify()
+
+### Week 7.1 - JS Course ###
+- 
 
 ### Week 8 - JS In the Browser ###
 - JS In the Browser (The DOM)
